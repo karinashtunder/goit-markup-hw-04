@@ -143,7 +143,7 @@ body {
 
   background-color: var(--NAVYBLUE);
   background-image: linear-gradient(var(--BR), var(--BR)),
-    url(../images/people-web-office.jpg);
+    url(../goit-markup-hw-04/images/people-web-office.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
